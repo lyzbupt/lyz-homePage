@@ -1,5 +1,5 @@
 <!-- lyz-homePage/_sidebar.md -->
 
-* [Home](/)
+* [Home](index)
 * [Resume](resume/resume)
 * [Project](project/project)
