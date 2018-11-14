@@ -8,6 +8,6 @@ link:
 https://lyzbupt.github.io/lyz-homePage/
 
 ### Quick Start:
- Run the local server with 'docsify serve .'
+ Run the local server with 'docsify serve'
  http://localhost:3000
 
